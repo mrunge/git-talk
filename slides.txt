@@ -1,0 +1,21 @@
+:skip-help: true
+
+.. title:: "GIT"
+
+----
+
+"GIT" Eine kurze Einführung
+===========================
+
+Matthias Runge <mrunge@matthias-runge.de>
+
+04. Sept 2014 Linux Werkstatt Oldenburg
+
+----
+
+git
+===
+
+* Versionskontrolle
+* Serverlos
+* Hashes

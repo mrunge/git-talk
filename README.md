@@ -7,8 +7,11 @@ Ansehen:
 
 `
 git clone https://github.com/mrunge/git-talk.git
+
 cd git-talk
+
 make
+
 firefox index.html
 `
 

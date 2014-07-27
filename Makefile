@@ -1,7 +1,7 @@
 all: index.html
 
 index.html: slides.rst
-	hovercraft slides.txt .
+	hovercraft slides.rst .
 
 
 clean:

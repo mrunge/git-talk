@@ -18,9 +18,11 @@ git
 
 Name eines Programms
 
-* Versionskontrolle
+* Änderungs-Verwaltungssystem
 * Serverlos
 * Hashes
+* Erweiterbar durch Plugins
+  und Hooks
 
 
 ----
@@ -36,4 +38,16 @@ git Kommandos
 * git log
 * git branch
 
+----
 
+Start
+=====
+
+git init
+    startet ein neues Repository.
+
+git add 
+    fügt dem Repository einen neue Änderung hinzu.
+
+git commit
+    Zeichnet Änderungen für die Ablage auf

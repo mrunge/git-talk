@@ -1,6 +1,6 @@
 all: index.html
 
-index.html: slides.txt
+index.html: slides.rst
 	hovercraft slides.txt .
 
 

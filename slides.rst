@@ -33,3 +33,7 @@ git Kommandos
 * git fetch
 * git push/pull
 * git rebase
+* git log
+* git branch
+
+

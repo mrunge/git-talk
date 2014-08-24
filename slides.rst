@@ -73,6 +73,18 @@ Exkurs: github
 
 ----
 
+Beispiel: Clonen eines Repositories
+===================================
+
+#. git clone git@github.com:mrunge/git-talk.git
+#. cd git-talk
+#. vim slides.rst
+#. git add slides.rst
+#. git commit -m '<Änderung>'
+#. git push
+
+----
+
 Tools
 =====
 

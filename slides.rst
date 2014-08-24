@@ -66,6 +66,7 @@ Exkurs: github
 
 * https://github.com
 * Eine Web-basierte Hostinglösung für Texte
+* Community-Funktionen: pull requests, issue tracker, wiki
 * https://github.com/bundestag/gesetze (Projekt der Open Knowledge Foundation Deutschland)
 
  * Diff Funktionalität, z.B. https://github.com/bundestag/gesetze/commit/01dfc35b7ec16cec048d2626dc5e2194a485f40f

@@ -19,9 +19,9 @@ Linux Werkstatt Oldenburg, 04.09.2014
 git
 ===
 
-* Änderungs-Verwaltungssystem
-* Serverlos
-* Hashes
+* Verteiltes Änderungs-Verwaltungssystem
+* Ursprünglich durch Linus Torvalds entwickelt
+* Besonderes Feature: Sicherung von Datenintegrität
 * Jeder kann Branches anlegen und verschmelzen
 * Erweiterbar durch Plugins und Hooks
 * 2014 das am meisten verwendete Sourcecode Management Tool.
@@ -66,13 +66,14 @@ Häufige git Kommandos
 
 * git add <file>
 * git commit [ -a ]
-* git fetch
+* git fetch [ --all ]
 * git push/pull
+* git merge <branch name> 
 * git rebase
 * git cherry-pick
 * git branch
-* git checkout
-* git clone
+* git checkout [ -b <branch name> ]
+* git clone!
 * git status
 * git log
 
@@ -138,6 +139,7 @@ Tools:
 
 Server:
  * Verschiedene, meist Setups via ssh oder WebDAV
+
 
 ----
 
